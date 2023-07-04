@@ -12,5 +12,5 @@ It uses Python (3.xx) and Scikit-learn, a library that provides various differen
 We provide a jupyter notebook to run again in a controlled environment (so jupyter-lab and jupyter-notebook can be used).
 To make it even easier, jupyterLite (https://jupyterlite.github.io/demo/lab/index.html) is also available and run everything in the web.
 You just have to clone this repo and import the TP material in the jupyterLite session.
-# Make sure that the data (heart.csv) and the notebook are in the same folder or change the path to load the data in the notebook.
+## Make sure that the data (heart.csv) and the notebook are in the same folder or change the path to load the data in the notebook.
 
