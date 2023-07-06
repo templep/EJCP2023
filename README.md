@@ -15,3 +15,7 @@ To make it even easier, jupyterLite (https://jupyterlite.github.io/demo/lab/inde
 You just have to clone this repo and import the TP material in the jupyterLite session.
 ## Make sure that the data (heart.csv) and the notebook are in the same folder or change the path to load the data in the notebook.
 
+contacts:
+paul.temple@irisa.fr
+mathieu.acher@irisa.fr
+olivier.barais@irisa.fr
