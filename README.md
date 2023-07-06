@@ -5,6 +5,8 @@ The session was focusing on the reproducibility of results and empirical Softwar
 The first part was taken care of by Prof. Mathieu Acher (slides available at: https://inria.hal.science/hal-04152637)
 and this repo is about the second half of the day and proposes to focus on reproducibility and Machine Learning (ML).
 
+To contribute to the x+y+z project (Mathieu Acher's practical session), you can pull request the following repo: https://github.com/FAMILIAR-project/reproducibility-associativity/
+
 Slides that come back to the basics of ML are available in the Presentation folder.
 The animation for SVM is not there anymore and there are links at the bottom of slides that are clickable or URLs for reference.
 The TP folder contains material that was used during the practical session.
